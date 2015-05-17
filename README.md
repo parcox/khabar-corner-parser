@@ -12,7 +12,11 @@ This script requires <a href="https://pypi.python.org/pypi/beautifulsoup4">beaut
 # How to use it?
 In Today Scripts widget, just add new script:<br>
 <img src="https://www.dropbox.com/s/iyhonuqj5z4dz94/1.png?raw=1">
-<br>Set the label, fill program with the location of Python command, and finally copy-paste the khabar-corner.py content into the text field.<br>
+<br><br>Set the label, fill program with the location of Python command, and finally copy-paste the khabar-corner.py content into the text field:<br>
 <img src="https://www.dropbox.com/s/0usc499tbgtqf3c/2.png?raw=1">
-<br>You're done!<br>
+<br><br>You're done!<br>
 <img src="https://www.dropbox.com/s/jxn00gvnvcd5ats/3.png?raw=1">
+
+<br><i>"Though a program be but three lines long, someday it will have to
+be maintained."</i>
+-- The Tao of Programming

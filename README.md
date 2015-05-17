@@ -15,4 +15,4 @@ In Today Scripts widget, just add new script:<br>
 <br>Set the label, and fill program with the location of Python command location, and finally copy-paste the khabar-corner.py content into the text field.<br>
 <img src="https://www.dropbox.com/s/0usc499tbgtqf3c/2.png?raw=1">
 <br>And you're done!<br>
-<img src="https://www.dropbox.com/s/jxn00gvnvcd5ats/3.png?raw=1>
+<img src="https://www.dropbox.com/s/jxn00gvnvcd5ats/3.png?raw=1">

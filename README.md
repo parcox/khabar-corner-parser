@@ -7,16 +7,19 @@ This tiny python script let you grab khabar corner text on http://www.republika.
 It is simply part of Republika website that displays verses of al-Quran and Hadith randomly. 
 
 # What do you need?
-This script requires <a href="https://pypi.python.org/pypi/beautifulsoup4">beautifulsoup4</a> python module. You can use pip or easy_install to install it.
+This script requires [beautifulsoup4]("https://pypi.python.org/pypi/beautifulsoup4") python module. You can use pip or easy_install to install it.  
+`# pip install beautifulsoup4`  
+or  
+`# easy_install beautifulsoup4`  
 
 # How to use it?
-In Today Scripts widget, just add new script:<br>
-<img src="https://www.dropbox.com/s/iyhonuqj5z4dz94/1.png?raw=1">
-<br><br>Set the label, fill program with the location of Python command, and finally copy-paste the khabar-corner.py content into the text field:<br>
-<img src="https://www.dropbox.com/s/0usc499tbgtqf3c/2.png?raw=1">
-<br><br>You're done!<br>
-<img src="https://www.dropbox.com/s/jxn00gvnvcd5ats/3.png?raw=1">
+In Today Scripts widget, just add new script:  
+<img src="https://www.dropbox.com/s/iyhonuqj5z4dz94/1.png?raw=1">    
+Set the label, fill program with the location of Python command, and finally copy-paste the khabar-corner.py content into the text field:  
+<img src="https://www.dropbox.com/s/0usc499tbgtqf3c/2.png?raw=1">    
+You're done!  
+<img src="https://www.dropbox.com/s/jxn00gvnvcd5ats/3.png?raw=1">    
 
-<br><i>"Though a program be but three lines long, someday it will have to
-be maintained."</i>
+*"Though a program be but three lines long, someday it will have to
+be maintained."*  
 -- The Tao of Programming

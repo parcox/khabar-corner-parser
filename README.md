@@ -1,7 +1,7 @@
 # khabar-corner-parser
 Grab Khabar corner text from Republika online
 
-This tiny python script let you grab khabar corner text on http://www.republika.co.id. I made this basically for <a href='https://github.com/SamRothCA/Today-Scripts'>Today Scripts</a>, a notification widget application for OS X 10.+ , but it could be used from another application like Conky(Linux), GeekTool, or directky from Terminal.
+This tiny python script let you grab khabar corner text on http://www.republika.co.id. I made this basically for <a href='https://github.com/SamRothCA/Today-Scripts'>Today Scripts</a>, a notification widget application for OS X 10.+ , but it could be used from another application like Conky(Linux), GeekTool, or directly from Terminal.
 
 # About Khabar corner.
 It is simply part of Republika website that displays verses of al-Quran and Hadith randomly. 

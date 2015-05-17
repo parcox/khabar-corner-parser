@@ -7,7 +7,7 @@ This tiny python script let you grab khabar corner text on http://www.republika.
 It is simply part of Republika website that displays verses of al-Quran and Hadith randomly. 
 
 # What do you need?
-This script requires [beautifulsoup4]("https://pypi.python.org/pypi/beautifulsoup4") python module. You can use pip or easy_install to install it.  
+This script requires <a href="https://pypi.python.org/pypi/beautifulsoup4">beautifulsoup4</a> python module. You can use pip or easy_install to install it.  
 `# pip install beautifulsoup4`  
 or  
 `# easy_install beautifulsoup4`  
